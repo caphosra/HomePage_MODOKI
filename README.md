@@ -4,4 +4,4 @@ GitHub Pagesの機能に感激しました。
 
 ## HomePageLink
 
-https://github.com/capra314cabra/HomePage_MODOKI
+https://capra314cabra.github.io/HomePage_MODOKI/
